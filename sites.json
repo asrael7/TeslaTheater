@@ -39,10 +39,10 @@
     "img": "twitch.png",
     "url": "https://www.twitch.tv/"
   },
-  "raiplay": {
-    "name": "Rai Play",
-    "img": "raiplay.png",
-    "url": "https://www.raiplay.it/"
+  "rtveplay": {
+    "name": "Rtve Play",
+    "img": "rtveplay.png",
+    "url": "https://www.rtve.es/play/"
   },
   "mediaset": {
     "name": "Mediaset",
